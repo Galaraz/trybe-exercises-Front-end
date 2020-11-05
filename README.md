@@ -1,1 +1,1 @@
-# trybe-exercises-Front-end-
+# trybe-exercises [Front-end]
